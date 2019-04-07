@@ -1,0 +1,4 @@
+---
+
+include: 'https://raw.githubusercontent.com/dewyatt/rpm-specs/master/ci.template.yml'
+
